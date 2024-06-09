@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B48B7CBA2C15726500FF0DDC /* DestinationSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48B7CB92C15726500FF0DDC /* DestinationSearchView.swift */; };
 		B4A7C3652C1023BB001274D6 /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A7C3642C1023BB001274D6 /* ExploreView.swift */; };
 		B4A7C3672C102535001274D6 /* ListingItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A7C3662C102535001274D6 /* ListingItemView.swift */; };
 		B4A7C3692C1035CD001274D6 /* SearchAndFilterBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A7C3682C1035CD001274D6 /* SearchAndFilterBar.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B48B7CB92C15726500FF0DDC /* DestinationSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationSearchView.swift; sourceTree = "<group>"; };
 		B4A7C3642C1023BB001274D6 /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
 		B4A7C3662C102535001274D6 /* ListingItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingItemView.swift; sourceTree = "<group>"; };
 		B4A7C3682C1035CD001274D6 /* SearchAndFilterBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAndFilterBar.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			children = (
 				B4A7C3642C1023BB001274D6 /* ExploreView.swift */,
 				B4A7C3682C1035CD001274D6 /* SearchAndFilterBar.swift */,
+				B48B7CB92C15726500FF0DDC /* DestinationSearchView.swift */,
 			);
 			path = Explore;
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4A7C36E2C103B4C001274D6 /* ListingImageCarouselView.swift in Sources */,
+				B48B7CBA2C15726500FF0DDC /* DestinationSearchView.swift in Sources */,
 				B4A7C3672C102535001274D6 /* ListingItemView.swift in Sources */,
 				B4B0FB112C0F2CA100830162 /* ContentView.swift in Sources */,
 				B4A7C3652C1023BB001274D6 /* ExploreView.swift in Sources */,
